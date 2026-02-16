@@ -1,5 +1,8 @@
 
-import { Link } from "react-router-dom";
+import { Link, Route, Routes} from "react-router-dom";
+import Home from "./Home.jsx";
+import Page1 from "./Page1.jsx";
+import Page2 from "./Page2.jsx";
 export default function App() {
 
   return (
